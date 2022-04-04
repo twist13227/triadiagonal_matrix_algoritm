@@ -1,0 +1,3 @@
+/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug/CMakeFiles/triadiagonal_matrix_algoritm.dir

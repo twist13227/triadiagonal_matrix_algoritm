@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="triadiagonal_matrix_algoritm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triadiagonal_matrix_algoritm">
+				<Option output="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug/triadiagonal_matrix_algoritm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 triadiagonal_matrix_algoritm"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triadiagonal_matrix_algoritm/fast">
+				<Option output="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug/triadiagonal_matrix_algoritm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 triadiagonal_matrix_algoritm/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/home/twist/CLionProjects/Numerical\ methods\ 3\ sem/triadiagonal_matrix_algoritm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/triadiagonal_matrix_algoritm.c">
+			<Option target="triadiagonal_matrix_algoritm"/>
+		</Unit>
+		<Unit filename="/home/twist/CLionProjects/Numerical methods 3 sem/triadiagonal_matrix_algoritm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

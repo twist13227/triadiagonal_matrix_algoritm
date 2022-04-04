@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/triadiagonal_matrix_algoritm.dir/triadiagonal_matrix_algoritm.c.o -o triadiagonal_matrix_algoritm 
